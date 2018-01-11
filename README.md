@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to eCard Generator Page
+[![Build Status](https://travis-ci.org/sakhmedoff/ecard.svg?branch=master)](https://travis-ci.org/sakhmedoff/ecard)
 
 You can use the [editor on GitHub](https://github.com/sakhmedoff/ecard/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
